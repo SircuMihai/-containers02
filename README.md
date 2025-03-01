@@ -1,9 +1,9 @@
-## Prima aplicație Docker
-## Scopul: 
+# Prima aplicație Docker
+# Scopul: 
 - Aceasta lucrare de laborator familiarizează cu elementele de bază ale containerizării și pregătește spațiul de lucru pentru următoarele lucrări de laborator.
-## Sarcina:
+# Sarcina:
 - Instalarea Docker Desktop și verificarea funcționării acestuia.
-## Executarea:
+# Executarea:
 # Copierea repositoriului containers03 din github
 - ![alt img](./repositoriuCopet.png)
 # Crearea fisierului Dockerfile cu continutul:
