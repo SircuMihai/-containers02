@@ -31,5 +31,5 @@
 - Ce este afișat pe ecran?
 - La ecran sau afisat permisiunile si detinatorul fisierului index.html
 - ![alt img](./permisiunile.png)
-## Conslusie
+# Conslusie
 - Această lucrare de laborator ofară o introducere practică în containerizare prin utilizarea Docker Desktop. În ea sa parcurs procesul de instalare și configurare a Docker Desktop, crearea unui fișier Dockerfile, construirea unei imagini și rularea unui container. De asemenea, am explorat modul în care fișierele sunt copiate și gestionate în cadrul containerului.
